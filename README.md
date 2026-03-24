@@ -27,28 +27,18 @@ Generative AI
 �
 �
 �
-Load image
-Load image
-Load image
-Load image
+
 Data & Analytics
 �
 �
 �
 �
 �
-Load image
-Load image
-Load image
-Load image
-Load image
+
 Machine Learning
 �
 �
 �
-Load image
-Load image
-Load image
 📜 Certification
 🏆 IBM Generative AI Fundamentals — In Progress
 Powered by IBM Developer Skills Network · via Learnbay
@@ -68,7 +58,6 @@ building solutions that actually work in production
 📫 Let's Connect
 �
 �
-Load image
-Load image
+
 📍 Mumbai, India · 🌐 Open to Remote Opportunities Globally
 "The best data professionals don't just analyse the past — they build systems that shape the future."
